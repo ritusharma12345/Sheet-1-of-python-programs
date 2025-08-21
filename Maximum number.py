@@ -1,6 +1,5 @@
 A = int(input("Enter first integer: "))
 B = int(input("Enter second integer: "))
 C = int(input("Enter third integer: "))
-
 maximum = max(A, B, C)
 print("The maximum is:", maximum)
