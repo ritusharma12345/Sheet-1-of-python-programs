@@ -1,6 +1,6 @@
 A = int(input("Enter first number (A): "))
 B = int(input("Enter second number (B): "))
 C = int(input("Enter third number (C): "))
-
 minimum = min(A, B, C)
-print("The minimum element is:", minimum)
+print("The minimum is:", minimum)
+
